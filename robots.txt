@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://maleslob.github.io/sitemap.html.gz
+Sitemap: https://maleslob.github.io/app/sitemap.html.gz
+Sitemap: https://maleslob.github.io/assets/sitemap.html.gz
+Sitemap: https://maleslob.github.io/css/sitemap.html.gz
+Sitemap: https://maleslob.github.io/includes/sitemap.html.gz
+Sitemap: https://maleslob.github.io/item/sitemap.html.gz
+Sitemap: https://maleslob.github.io/src/sitemap.html.gz
